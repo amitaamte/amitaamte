@@ -11,14 +11,14 @@ React, Javascript, HTML5, CSS3, Java
 <a href="https://www.linkedin.com/in/amita-amte-b0216983/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 # Stats
-<a href="https://github.com/amitamte">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roxiomontes&theme=material-palenight" />
+<a href="https://github.com/amitaamte">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitaamte&theme=material-palenight" />
 </a><br>
-<a href="https://github.com/amitamte">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=roxiomontes&show_icons=true&theme=material-palenight" />
+<a href="https://github.com/amitaamte">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amitaamte&show_icons=true&theme=material-palenight" />
 </a><br>
-<a href="https://github.com/amitamte">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxiomontes&layout=compact&theme=material-palenight" />
+<a href="https://github.com/amitaamte">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitaamte&layout=compact&theme=material-palenight" />
 </a><br>
 
 
