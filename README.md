@@ -10,7 +10,7 @@ I am a Software Development Engineer at Amazon :). In my free time, I love to da
 ## 🛠 Skills
 React, Javascript, HTML5, CSS3, Java
 
-
-<a href="https://www.linkedin.com/in/amita-amte-b0216983/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+# Connect with me 
+<a href="https://www.linkedin.com/in/amita-amte-b0216983/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
   
